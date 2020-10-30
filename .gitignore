@@ -1,3 +1,9 @@
 
 .ipynb_checkpoints/Pre-process-checkpoint.ipynb
 *.csv
+data/train.csv
+data/comments_preprocessed_final.csv.zip
+data/train.csv
+data/train.csv
+data/train.csv
+*.csv
