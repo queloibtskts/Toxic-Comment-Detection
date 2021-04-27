@@ -1,4 +1,4 @@
-# appliedDataSci_finalProject
+# Toxic Comment Detection
 This is a group project produced by Xiaoyue Lin, Yuling Zheng and Xiyan Zhang. 
 
 In this project, we aimed to classify toxic comments using Machine Learning models, which can be applied in censoring inappropriate comments on social media platforms. 
