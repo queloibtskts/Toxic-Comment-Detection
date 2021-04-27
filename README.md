@@ -14,3 +14,5 @@ We found that algorithms with different hyperparameter settings performed differ
 
 ## Project Report
 https://github.com/queloibtskts/appliedDataSci_finalProject/blob/master/report.pdf
+
+If you have adviced for our work or find this code useful, please let us know.
